@@ -5,6 +5,20 @@
     <link>https://example.com/categories/%E6%83%B3%E6%B3%95/</link>
     <description>Recent content in 想法 on muyuan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/categories/%E6%83%B3%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/%E6%83%B3%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>从这里开始</title>
+      <link>https://example.com/p/hello-world/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/p/hello-world/</guid>
+      <description>从这里开始 ​
+网安专业在读。
+大一生。
+目前还处于找不到兴趣点所以这里瞅瞅前端，那里摸摸ctf的划水迷茫状态。
+那么，就从这里开始吧。  踏上新的旅程</description>
+    </item>
+    
   </channel>
 </rss>
